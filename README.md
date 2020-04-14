@@ -11,7 +11,7 @@
     cd ..
     python3 Command_Line_Input.py <command>
     ```
-- "<command>" takes the form of
+- \<command\> takes the form of
   ```
   search [min=<real number>] [max=<real number>] [category=<real number>]
   ```
