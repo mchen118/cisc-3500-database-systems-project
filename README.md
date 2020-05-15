@@ -1,6 +1,6 @@
 # CISC 3500 Database Systems Project
 - This was a course project where a database was given, and the task was to write a python script that takes command line arguments and translate them into sqlite squeries.
-- Works in a Linux environment, and needs Python 3.
+- Works in a Linux environment, and needs Python 3 and SQLite.
 - Use:
   1. Clone all files into a working directory.
   2. Enter the following in bash.
